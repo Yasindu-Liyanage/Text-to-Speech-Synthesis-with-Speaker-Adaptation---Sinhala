@@ -1,1 +1,1 @@
-# Text-to-Speech-with-Speaker-Adaptation---Sinhala
+# Text-to-Speech Synthesis-with-Speaker-Adaptation---Sinhala
