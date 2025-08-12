@@ -1,0 +1,14 @@
+# Ignore everything inside Data, Model, and Training
+Data/*
+Models/*
+Training/*
+
+# But keep the folders themselves
+!Data/.gitkeep
+!Model/.gitkeep
+!Training/.gitkeep
+
+# Ignore specific DAE directories
+DAE/noisereduce/*
+DAE/Clean Data/*
+DAE/Noisy Data/*
